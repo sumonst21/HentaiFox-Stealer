@@ -44,7 +44,7 @@
 <br>
 <body bgcolor ="black">
 <center><font face="Ubuntu" size="4" color="green"><b><i>a sec till complete.. then, go put in pUrurin grabber</i><b/></font></center>
-<center><a href="grab.php" rel="nofollow" target="_blank"><font face="Ubuntu" size="4" color="white"><b>[ grab here ]<b/></font></a><center>
+<center><a href="ambil.php" rel="nofollow" target="_blank"><font face="Ubuntu" size="4" color="white"><b>[ grab here ]<b/></font></a><center>
 <p>
 <center>
 <?php
