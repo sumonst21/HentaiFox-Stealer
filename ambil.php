@@ -2,12 +2,9 @@
 <link rel="shortcut icon" href="https://1.bp.blogspot.com/-q4WhoEwfRlI/XDCnuof_TsI/AAAAAAAAIsQ/HxA6hd2mIOgiO8KveXaxKwfaecawWpCgwCLcBGAs/s1600/kano.png" type="image/x-icon">
 <meta name='author' content='Stupidc0de Family'>
 <link href="http://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet" type="text/css">
-
 <style>
 
 .subbtn {background:#b70505;color:white;border: 1px solid #000; padding:6px 6px 6px 6px;}
-
-
 .bordergaya{
 			background:black;
 			color:white;
@@ -25,9 +22,6 @@
 			font-size:16px;
 			border:2px solid crimson;
 		}
-	
-
-
 </style>
 
 <?php
@@ -38,12 +32,10 @@
 	foreach($image as $img) 
 	{
 		$s=$img->src; 
-		$img_name = 'result/'.basename($s); //change it
+		$img_name = 'hFoxresult/'.basename($s); //change it
 		file_put_contents($img_name, file_get_contents($s)); 
 	}
 	}
-	
-	
 ?>
   <center><font face="Ubuntu" size="5" color="white"><b>HentaiFox Grabber by Sc0<b/></font></center>
 <center>
